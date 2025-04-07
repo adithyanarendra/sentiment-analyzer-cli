@@ -1,0 +1,15 @@
+# Python
+api/venv/
+__pycache__/
+
+# Go
+cli/bin/
+*.exe
+*.out
+*.test
+
+# OS
+.DS_Store
+
+# Other
+.env
